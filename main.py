@@ -148,7 +148,7 @@ def check_all_watched():
 
 
 # Schedule it: every 8 hours
-scheduler.add_job(check_all_watched, 'interval', hours=4)
+scheduler.add_job(check_all_watched, 'interval', hours=3)
 
 
 class WatchRequest(BaseModel):
