@@ -1,0 +1,48 @@
+2026-04-13 11:59:20 - INFO - Added job "check_all_watched" to job store "default"
+2026-04-13 12:06:01 - INFO - Added job "check_all_watched" to job store "default"
+2026-04-13 12:07:27 - INFO - === EXPORTED WATCHED URLS ===
+2026-04-13 12:07:27 - INFO - Watched URL: https://www.transnet.net/SubsiteRender.aspx?id=8185344
+2026-04-13 12:07:27 - INFO -   Keywords: ['Durban', 'KZN', 'Port Terminals']
+2026-04-13 12:07:27 - INFO -   Last checked: 2026-04-13T12:04:09.971883
+2026-04-13 12:07:27 - INFO -   Last changed: 2026-04-13T11:51:36.029859
+2026-04-13 12:07:27 - INFO - ---
+2026-04-13 12:07:56 - INFO - [CHANGE DETECTED] 2026-04-13T12:07:56.029129
+2026-04-13 12:07:56 - INFO - URL: https://www.transnet.net/SubsiteRender.aspx?id=8185344
+2026-04-13 12:07:56 - INFO - Keyword match: ['Durban', 'KZN', 'Port Terminals']
+2026-04-13 12:07:56 - INFO - --- DIFF ---
+--- old
++++ new
+@@ -4884,6 +4884,33 @@
+ getFile.ashx?id=12590
+ PORT ELIZABETH MPT RORO TERMINAL
+ 13 Apr 2026 11:11
++getFile.ashx?id=12591
++CAPE TOWN COMBI TERMINAL
++13 Apr 2026 12:05
++getFile.ashx?id=12592
++CAPE TOWN CONTAINER TERMINAL
++13 Apr 2026 12:05
++getFile.ashx?id=12593
++DURBAN CONTAINER TERMINAL PIER  1
++13 Apr 2026 12:05
++getFile.ashx?id=12594
++DURBAN GATEWAY TERMINAL
++13 Apr 2026 12:06
++getFile.ashx?id=12595
++DURBAN RO RO TERMINAL
++13 Apr 2026 12:06
++getFile.ashx?id=12596
++MULTI - PURPOSE TERMINAL POINT
++13 Apr 2026 12:06
++getFile.ashx?id=12597
++NGQURA CONTAINER TERMINAL
++13 Apr 2026 12:06
++getFile.ashx?id=12598
++PORT ELIZABETH CONTAINER TERMINAL
++13 Apr 2026 12:06
++getFile.ashx?id=12599
++PORT ELIZABETH MPT RORO TERMINAL
++13 Apr 2026 12:06
+ CLICK HERE for TPT Contact Numbers
+ 202 Anton Lembede Str., Durban Central, 4001 / Email: tptcallcentre@transnet.net
+ TRANSNET PORT TERMINALS: SOCIAL MEDIA PAGES
