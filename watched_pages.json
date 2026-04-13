@@ -8,7 +8,7 @@
       "KZN",
       "Port Terminals"
     ],
-    "last_checked": "2026-04-13T14:10:36.328909",
+    "last_checked": "2026-04-13T14:12:08.092746",
     "last_changed": "2026-04-13T14:10:36.333895",
     "last_diff": "--- old\n+++ new\n@@ -4911,6 +4911,54 @@\n getFile.ashx?id=12599\n PORT ELIZABETH MPT RORO TERMINAL\n 13 Apr 2026 12:06\n+getFile.ashx?id=12602\n+CAPE TOWN COMBI TERMINAL\n+13 Apr 2026 13:12\n+getFile.ashx?id=12603\n+CAPE TOWN CONTAINER TERMINAL\n+13 Apr 2026 13:12\n+getFile.ashx?id=12605\n+DURBAN GATEWAY TERMINAL\n+13 Apr 2026 13:12\n+getFile.ashx?id=12606\n+DURBAN RO RO TERMINAL\n+13 Apr 2026 13:12\n+getFile.ashx?id=12608\n+NGQURA CONTAINER TERMINAL\n+13 Apr 2026 13:12\n+getFile.ashx?id=12609\n+PORT ELIZABETH CONTAINER TERMINAL\n+13 Apr 2026 13:13\n+getFile.ashx?id=12610\n+PORT ELIZABETH MPT RORO TERMINAL\n+13 Apr 2026 13:13\n+getFile.ashx?id=12611\n+CAPE TOWN COMBI TERMINAL\n+13 Apr 2026 14:06\n+getFile.ashx?id=12612\n+CAPE TOWN CONTAINER TERMINAL\n+13 Apr 2026 14:06\n+getFile.ashx?id=12613\n+DURBAN CONTAINER TERMINAL PIER  1\n+13 Apr 2026 14:06\n+getFile.ashx?id=12614\n+DURBAN GATEWAY TERMINAL\n+13 Apr 2026 14:07\n+getFile.ashx?id=12615\n+DURBAN RO RO TERMINAL\n+13 Apr 2026 14:07\n+getFile.ashx?id=12616\n+MULTI - PURPOSE TERMINAL POINT\n+13 Apr 2026 14:07\n+getFile.ashx?id=12617\n+NGQURA CONTAINER TERMINAL\n+13 Apr 2026 14:07\n+getFile.ashx?id=12618\n+PORT ELIZABETH CONTAINER TERMINAL\n+13 Apr 2026 14:07\n+getFile.ashx?id=12619\n+PORT ELIZABETH MPT RORO TERMINAL\n+13 Apr 2026 14:07\n CLICK HERE for TPT Contact Numbers\n 202 Anton Lembede Str., Durban Central, 4001 / Email: tptcallcentre@transnet.net\n TRANSNET PORT TERMINALS: SOCIAL MEDIA PAGES"
   }
