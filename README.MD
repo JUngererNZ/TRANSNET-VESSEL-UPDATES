@@ -479,8 +479,4 @@ curl -X POST "http://localhost:8000/watch" \
 3. *Durban filter*: Ignores changes unless your keywords are in the new content
 4. *Diff*: Email body + `/check` response includes a unified diff showing +/- lines
 
-*Test it immediately*: `curl http://localhost:8000/check-all`
 
-Transnet’s site is heavy and that URL covers all divisions. If you want less noise, we should find the exact CSS selector for just the tender table. Want me to help you grab that?
-
-Also — Transnet is moving to a new eSupplier Portal. Want me to add that URL to the watch list too?
