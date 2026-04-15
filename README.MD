@@ -479,4 +479,5 @@ curl -X POST "http://localhost:8000/watch" \
 3. *Durban filter*: Ignores changes unless your keywords are in the new content
 4. *Diff*: Email body + `/check` response includes a unified diff showing +/- lines
 
+Linked to repo https://github.com/JUngererNZ/EmailProcessor
 
